@@ -21,8 +21,7 @@
 
 ## Vamos Conectar!
 
-- 👉 Estou sempre aberta a conhecer outros profissionais da área e aprender com eles.
-- Fique à vontade para me seguir aqui no GitHub e no LinkedIn.
+- Estou sempre aberta a conhecer outros profissionais da área e aprender com eles. Fique à vontade para me seguir aqui no GitHub e no LinkedIn.
 
 Obrigada por visitar o meu perfil! Vamos aprender e crescer juntos. 😄
 
