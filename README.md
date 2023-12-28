@@ -1,8 +1,9 @@
-# Olá, eu sou a Rafaela! 👋
+# Olá, eu sou a Rafaela!👋
 
 ## Sobre Mim
 
-- 👩‍🎓 Tenho 25 anos, sou formada em Engenharia Aeronáutica pela Universidade FUMEC e sou estudante do curso de Análise e Desenvolvimento de Sistemas na Universidade Newton Paiva.
+- 👩‍🎓 Tenho 25 anos e sou estudante do curso de Análise e Desenvolvimento de Sistemas na Universidade Newton Paiva.
+- 🎓 Sou formada em Engenharia Aeronáutica pela Universidade FUMEC.
 - 💻 Tenho experiência em linguagens de programação como C e Java.
 - 🗃️ Possuo conhecimento em SQL, uma linguagem essencial para gerenciamento de bancos de dados.
 - 🛠️ Trabalhei com ferramentas como Eclipse IDE, IntelliJ IDEA e DevC++.
@@ -20,6 +21,9 @@
 
 ## Vamos Conectar!
 
-- 👉 Estou sempre aberta a conhecer outros profissionais da área e aprender com eles. Fique à vontade para me seguir aqui no GitHub e no LinkedIn.
+- 👉 Estou sempre aberta a conhecer outros profissionais da área e aprender com eles.
+- Fique à vontade para me seguir aqui no GitHub e no LinkedIn.
 
 Obrigada por visitar o meu perfil! Vamos aprender e crescer juntos. 😄
+
+
