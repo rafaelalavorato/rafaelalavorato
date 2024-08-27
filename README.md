@@ -112,52 +112,6 @@ Sou uma desenvolvedora em busca de aprimoramento nas áreas de back-end e front-
 
 -----
 
-<div>
-<details>
-<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/linkedin2.gif?raw=true"/> LinkedIn Recommendations</summary>
-<div>
-<table>
-<tr>
- <td align="center" colspan="1"></td>
-</tr> 
-<tr>
-<td>
-<img align="center" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/R1.png?raw=true" alt="R1"/>
-</td>
-</tr>
-<tr>
-<td>
-<img align="center" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/R2.png?raw=true" alt="R2"/>
-</td>
-</tr>
-<tr>
-<td>
-<img align="center" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/R3.png?raw=true" alt="R3"/>
-</td>
-</tr>
-<tr>
-<td>
-<img align="center" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/R4.png?raw=true" alt="R4"/>
-</td>
-</tr>
-<tr>
-<td>
-<img align="center" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/R5.png?raw=true" alt="R5"/>
-</td>
-</tr>
-<tr>
-<td>
-<img align="center" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/R6.png?raw=true" alt="R6"/>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="1"></td>
-</tr> 
-</table>
-</div>
-</details>
-</div>
-
 <div align="center">
 
 </div>
@@ -168,10 +122,7 @@ Sou uma desenvolvedora em busca de aprimoramento nas áreas de back-end e front-
 </tr> 
 <tr>
 <td>
-<a href="mailto:joaopauloaramuni@gmail.com" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/githubfooter2.png?raw=true" alt="github-footer2"/></a>
-</td>
-<td>
-<a href="https://github.com/joaopauloaramuni" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/githubfooter1.png?raw=true" alt="github-footer1"/></a>
+<a href="https://github.com/rafaelalavorato" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/githubfooter1.png?raw=true" alt="github-footer1"/></a>
 </td>
 </tr>
 <tr>
@@ -188,9 +139,6 @@ Sou uma desenvolvedora em busca de aprimoramento nas áreas de back-end e front-
  <td align="center" colspan="2"></td>
 </tr> 
 <tr>
-<td>
-<a href="https://github.com/rafaelalavorato" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/logo.png?raw=true" width="50px" height="50px"/></a>
-</td>
 <td>
 | Créditos: <a href="https://github.com/rafaelalavorato" target="_blank">© 2024 Lavorato</a><br />
 | Última atualização: 27/08/2024
