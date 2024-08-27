@@ -40,7 +40,7 @@
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
 
 <div align="justify">
-Sou uma desenvolvedora em busca de aprimoramento nas áreas de back-end e front-end. Tenho experiência em linguagens como C++, Python e Java, com projetos em JAVA <a href="https://github.com/rafaelalavorato/MiniRedeSocial" target="_blank">aqui</a>. Estou me aprofundando em HTML5, CSS3 e Java Script, além de possuir conhecimento em SQL. Trabalhei com ferramentas como Eclipse IDE, IntelliJ IDEA e DevC++. Meu objetivo é me tornar uma profissional Full Stack, contribuindo para projetos inovadores e desafiadores. Estou constantemente aprendendo e aprimorando minhas habilidades para alcançar essas metas. Estou sempre aberta a conhecer outros profissionais da área e aprender com eles. Fique à vontade para me seguir aqui no GitHub e no LinkedIn.
+Sou uma desenvolvedora em busca de aprimoramento nas áreas de back-end e front-end. Tenho conhecimento em linguagens como C++, Python e Java, com projetos em JAVA <a href="https://github.com/rafaelalavorato/MiniRedeSocial" target="_blank">aqui</a>. Estou me aprofundando em HTML5, CSS3 e Java Script, além de possuir conhecimento em SQL. Trabalhei com ferramentas como Eclipse IDE, IntelliJ IDEA e DevC++. Meu objetivo é me tornar uma profissional Full Stack, contribuindo para projetos inovadores e desafiadores. Estou constantemente aprendendo e aprimorando minhas habilidades para alcançar essas metas. Estou sempre aberta a conhecer outros profissionais da área e aprender com eles. Fique à vontade para me seguir aqui no GitHub e no LinkedIn.
 </div>
 
 -----
@@ -54,8 +54,8 @@ Sou uma desenvolvedora em busca de aprimoramento nas áreas de back-end e front-
 
 <div align="justify">
 <p> 
-- :man_teacher: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>professor</code> da Ciência da Computação, <br />Sistemas de Informação e Análise e Desenvolvimento de Sistemas.<br />
-- :mortar_board: &nbsp; Na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>, sou <code>professor</code> nos cursos de Engenharia de <br />Software e Ciência da Computação.<br />
+- :man_teacher: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluna</code> do curso de Análise e Desenvolvimento de Sistemas.<br />
+- :mortar_board: &nbsp; Pela <a href="https://www.fumec.br/" target="_blank">Universidade FUMEC</a>, sou <code>formada</code> em Engenharia Aeronáutica desde 2021. <br />
 - :necktie: &nbsp; Na <a href="https://in8.com.br/" target="_blank">IN8</a>, atuei como <code>Tech Manager</code>, responsável pela liderança de<br /> squads de devs de múltiplos projetos para o mercado de milhas aéreas. :airplane:<br />
 - :briefcase: &nbsp; Na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>, atuei como <code>Tech Lead</code> de Currículo, Liderança de Instrução<br /> e Especialista em Instrução de Tecnologia. Ministrei aulas de Ciência<br /> da Computação para a primeira turma da escola. :man_teacher:<br />
 - :man_teacher: &nbsp; Também fui professor de Arquitetura de Software na <a href="https://www.xpeducacao.com.br/" target="_blank">XP Educação</a><br /> e de Ciência da Computação na <a href="http://www.fumec.br/" target="_blank">Universidade FUMEC</a>.<br />
