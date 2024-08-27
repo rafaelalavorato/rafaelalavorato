@@ -150,7 +150,7 @@ Sou uma desenvolvedora em busca de aprimoramento nas áreas de back-end e front-
 </div>
 -->
 
-<!-- Obrigado pela visita! -->
+<!-- Obrigada pela visita! -->
 
 
 
