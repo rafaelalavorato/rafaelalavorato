@@ -54,8 +54,8 @@ Sou uma desenvolvedora em busca de aprimoramento nas áreas de back-end e front-
 
 <div align="justify">
 <p> 
-- :man_teacher: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluna</code> do curso de Análise e Desenvolvimento <br/> de Sistemas.<br />
-- :mortar_board: &nbsp; Pela <a href="https://www.fumec.br/" target="_blank">Universidade FUMEC</a>, sou <code>formada</code> em Engenharia Aeronáutica <br/ > desde 2021. <br />
+ :man_teacher: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluna</code> do curso de Análise e <br/> Desenvolvimento de Sistemas.<br />
+- :mortar_board: &nbsp; Pela <a href="https://www.fumec.br/" target="_blank">Universidade FUMEC</a>, sou <code>formada</code> em <br/> Engenharia Aeronáutica desde 2021. <br />
 - :briefcase: &nbsp; No <a href="//www.crea-mg.org.br/" target="_blank">CREA-MG</a>, atuo como <code>Analista de Conformidade</code>, <br/> desenvolvendo estratégias de fiscalização administrativa e <br/> aprimorando a conformidade técnica de processos e profissionais. <br />
 - :atom: &nbsp; Tenho conhecimento em diversas tecnologias, incluindo Excel Avançado,<br/ > SolidWorks, Power BI, Java, C, Python, HTML5/CSS3, SQL, JavaScript, e React. <br /> Estou sempre buscando novos desafios e oportunidades para expandir <br/> minhas habilidades técnicas. <br />
 - :books: &nbsp; Meus hobbies são ler, assistir séries, sair para comer e correr. <br/>
