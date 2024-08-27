@@ -55,12 +55,13 @@ Sou uma desenvolvedora em busca de aprimoramento nas áreas de back-end e front-
 <div align="justify">
 <p> 
  :man_teacher: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluna</code> do curso de Análise e <br/> Desenvolvimento de Sistemas.<br />
-- :mortar_board: &nbsp; Pela <a href="https://www.fumec.br/" target="_blank">Universidade FUMEC</a>, sou <code>formada</code> em <br/> Engenharia Aeronáutica desde 2021. <br />
-- :briefcase: &nbsp; No <a href="//www.crea-mg.org.br/" target="_blank">CREA-MG</a>, atuo como <code>Analista de Conformidade</code>, <br/> desenvolvendo estratégias de fiscalização administrativa e <br/> aprimorando a conformidade técnica de processos e profissionais. <br />
-- :atom: &nbsp; Tenho conhecimento em diversas tecnologias, incluindo Excel Avançado,<br/ > SolidWorks, Power BI, Java, C, Python, HTML5/CSS3, SQL, JavaScript, e React. <br /> Estou sempre buscando novos desafios e oportunidades para expandir <br/> minhas habilidades técnicas. <br />
-- :books: &nbsp; Meus hobbies são ler, assistir séries, sair para comer e correr. <br/>
-- :speech_balloon: &nbsp; Apaixonada por aprender e compartilhar conhecimento, <br/> estou sempre disponível para ajudar. <br />
-- :mailbox: &nbsp; Vamos nos conectar? Você pode me encontrar <a href="rafaelajunqueiralp@gmail.com" target="_blank">aqui</a> <br />
+:mortar_board: &nbsp; Pela <a href="https://www.fumec.br/" target="_blank">Universidade FUMEC</a>, sou <code>formada</code> em <br/> Engenharia Aeronáutica desde 2021. <br />
+ :briefcase: &nbsp; No <a href="//www.crea-mg.org.br/" target="_blank">CREA-MG</a>, atuo como <code>Analista de Conformidade</code>, <br/> desenvolvendo estratégias de fiscalização administrativa e <br/> aprimorando a conformidade técnica de processos e profissionais. <br />
+ :atom: &nbsp; Tenho conhecimento em diversas tecnologias, incluindo Excel Avançado,<br/ > SolidWorks, Power BI, Java, C, Python, HTML5/CSS3, SQL, JavaScript, e React. <br />
+  :man_teacher: &nbsp; Estou sempre buscando novos desafios e oportunidades para <br/> expandir minhas habilidades técnicas. <br />
+ :books: &nbsp; Meus hobbies são ler, assistir séries, sair para comer e correr. <br/>
+ :speech_balloon: &nbsp; Apaixonada por aprender e compartilhar conhecimento, <br/> estou sempre disponível para ajudar. <br />
+ :mailbox: &nbsp; Vamos nos conectar? Você pode me encontrar <a href="rafaelajunqueiralp@gmail.com" target="_blank">aqui</a> <br />
 </p>
 </div>
 </div>
@@ -90,44 +91,6 @@ Sou uma desenvolvedora em busca de aprimoramento nas áreas de back-end e front-
 &nbsp; 
 <code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/vs.png?raw=true"/></a></code>
 &nbsp;
-
------
-
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
-
-<div>
-<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaopauloaramuni&theme=github_dark"/>
-<!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaopauloaramuni&theme=github_dark"/> -->
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaopauloaramuni&theme=github_dark"/>
-<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaopauloaramuni&theme=github_dark"/>
-</div>
-
------
-
-<div>
-<div>
-<details>
-<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Aramuni's Spotify Data</summary>
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=22lih5eniohc7dawfxohlo7wy" alt="Data Card for Spotify">
-</details>
-</div>
-<div>
-<!-- <a href="https://twitter.com/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaoaramuni"/></a> -->
-<a href="https://www.last.fm/pt/user/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=joaoaramuni&width=400"/></a>
-</div>
-<div>
-<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=22lih5eniohc7dawfxohlo7wy&cover_image=true&theme=default"/> &nbsp; &nbsp; 
-<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=22lih5eniohc7dawfxohlo7wy&count=10"/>
-</div>
-<div>
-<details>
-<summary>:headphones: :guitar: :drum:</summary>
-
-[Charlie Brown Jr. - Céu Azul Ao Vivo - Chegou Quem Faltava](https://github.com/joaopauloaramuni/joaopauloaramuni/assets/58268075/c6568311-54c8-4c00-aced-26aacd69f8a1)
-
-</details>
-</div>
-</div>
 
 -----
 
@@ -295,11 +258,11 @@ Sou uma desenvolvedora em busca de aprimoramento nas áreas de back-end e front-
 </tr> 
 <tr>
 <td>
-<a href="https://github.com/joaopauloaramuni" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/logo.png?raw=true" width="50px" height="50px"/></a>
+<a href="https://github.com/rafaelalavorato" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/logo.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td>
-| Créditos: <a href="https://github.com/joaopauloaramuni" target="_blank">© 2024 Aramuni</a><br />
-| Última atualização: 13/03/2024
+| Créditos: <a href="https://github.com/rafaelalavorato" target="_blank">© 2024 Lavorato</a><br />
+| Última atualização: 27/08/2024
 </td>
 </tr>
 <tr>
