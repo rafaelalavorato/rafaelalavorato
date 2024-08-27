@@ -97,9 +97,6 @@ Sou uma desenvolvedora em busca de aprimoramento nas áreas de back-end e front-
 <div>
 <table align="right">
 <tr>
- <td align="center" colspan="1">Pix</td>
-</tr> 
-<tr>
 <td><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/qrcode-pix.png?raw=true" width="70px" height="70px"/></td>
 </tr>
 </table>
@@ -111,12 +108,8 @@ Sou uma desenvolvedora em busca de aprimoramento nas áreas de back-end e front-
 </div>
 
 -----
-
-<div align="center">
-
-</div>
 <div>
-<table>
+<table align="center">
 <tr>
  <td align="center" colspan="2"></td>
 </tr> 
