@@ -57,7 +57,7 @@ Sou uma desenvolvedora junior em busca de aprimoramento nas áreas de back-end e
  :man_teacher: &nbsp; Pela <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>formada</code> em Análise e <br/> Desenvolvimento de Sistemas.<br />
 :mortar_board: &nbsp; Pela <a href="https://www.fumec.br/" target="_blank">Universidade FUMEC</a>, sou <code>formada</code> em <br/> Engenharia Aeronáutica desde 2021. <br />
  :briefcase: &nbsp; Nos <a href="https://www.supermercadosbh.com.br/belo-horizonte/" target="_blank">Supermercados BH</a>, atuo como <code>Desenvolvedora de Software Junior</code>, <br/> desenvolvendo projetos utilizando ReactJs, Typescript, C# (.NET), <br/> Node.js, MongoDB e SQL. <br />
- :atom: &nbsp; Tenho conhecimento em diversas tecnologias, incluindo C#,<br/ > Java, C++, Python, HTML5/CSS3, JavaScript, TypeScript, React, SQL, Power BI Excel e SolidWorks. <br />
+ :atom: &nbsp; Tenho conhecimento em diversas tecnologias, incluindo C#,<br/ > Java, C++, Python, HTML5/CSS3, JavaScript, TypeScript, React, SQL, Power BI,  <br /> Excel e SolidWorks. <br />
   :man_teacher: &nbsp; Estou sempre buscando novos desafios e oportunidades para <br/> expandir minhas habilidades técnicas. <br />
  :books: &nbsp; Meus hobbies são ler, assistir séries, sair para comer e correr. <br/>
  :speech_balloon: &nbsp; Apaixonada por aprender e compartilhar conhecimento, <br/> estou sempre disponível para ajudar. <br />
@@ -131,7 +131,7 @@ Sou uma desenvolvedora junior em busca de aprimoramento nas áreas de back-end e
 <tr>
 <td>
 | Créditos: <a href="https://github.com/rafaelalavorato" target="_blank">© 2024 Lavorato</a><br />
-| Última atualização: 27/08/2024
+| Última atualização: 25/03/2025
 </td>
 </tr>
 <tr>
