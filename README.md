@@ -33,14 +33,14 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou a <code>Rafaela Lavorato</code>, tenho 26 anos, moro em BH e sou estudante do curso de Análise e Desenvolvimento de Sistemas no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>. Sou formada em Engenharia Aeronáutica pela Universidade FUMEC desde 2021. Atualmente trabalho no <a href="https://www.crea-mg.org.br/" target="_blank">CREA-MG</a> no setor de Fiscalização Administrativa. Sou apaixonada por tecnologia e aviação.
+<i><b>Olá</b> :wave:, sou a <code>Rafaela Lavorato</code>, tenho 26 anos, moro em BH e sou formada em Análise e Desenvolvimento de Sistemas pelo <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>. Também sou formada em Engenharia Aeronáutica pela Universidade FUMEC desde 2021. Atualmente trabalho nos <a href="https://www.supermercadosbh.com.br/belo-horizonte/" target="_blank">Supermercados BH</a> na equipe de logística do setor de TI como desenvolvedora junior. Sou apaixonada por tecnologia e aviação.
 </div>
 
 -----
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
 
 <div align="justify">
-Sou uma desenvolvedora em busca de aprimoramento nas áreas de back-end e front-end. Tenho conhecimento em linguagens como C++, Python e Java, com projetos em JAVA <a href="https://github.com/rafaelalavorato/MiniRedeSocial" target="_blank">aqui</a>. Estou me aprofundando em HTML5, CSS3 e Java Script, além de possuir conhecimento em SQL. Trabalhei com ferramentas como Eclipse IDE, IntelliJ IDEA e DevC++. Meu objetivo é me tornar uma profissional Full Stack, contribuindo para projetos inovadores e desafiadores. Estou constantemente aprendendo e aprimorando minhas habilidades para alcançar essas metas. Estou sempre aberta a conhecer outros profissionais da área e aprender com eles. Fique à vontade para me seguir aqui no GitHub e no LinkedIn.
+Sou uma desenvolvedora junior em busca de aprimoramento nas áreas de back-end e front-end. Tenho conhecimento em C++, C#, Python, Java, HTML, CSS e JavaScript. Estou me aprofundando em TypeScript e React, além de possuir conhecimento em banco de dados. Trabalhei com ferramentas como Eclipse IDE, IntelliJ IDEA, Visual Studio e DevC++. Meu objetivo é me tornar uma profissional Full Stack, contribuindo para projetos inovadores e desafiadores. Estou constantemente aprendendo e aprimorando minhas habilidades para alcançar essas metas. Estou sempre aberta a conhecer outros profissionais da área e aprender com eles. Fique à vontade para me seguir aqui no GitHub e no LinkedIn.
 </div>
 
 -----
@@ -54,10 +54,11 @@ Sou uma desenvolvedora em busca de aprimoramento nas áreas de back-end e front-
 
 <div align="justify">
 <p> 
- :man_teacher: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluna</code> do curso de Análise e <br/> Desenvolvimento de Sistemas.<br />
+ :man_teacher: &nbsp; Pela <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>formada</code> em Análise e <br/> Desenvolvimento de Sistemas.<br />
 :mortar_board: &nbsp; Pela <a href="https://www.fumec.br/" target="_blank">Universidade FUMEC</a>, sou <code>formada</code> em <br/> Engenharia Aeronáutica desde 2021. <br />
- :briefcase: &nbsp; No <a href="//www.crea-mg.org.br/" target="_blank">CREA-MG</a>, atuo como <code>Analista de Conformidade</code>, <br/> desenvolvendo estratégias de fiscalização administrativa e <br/> aprimorando a conformidade técnica de processos e profissionais. <br />
- :atom: &nbsp; Tenho conhecimento em diversas tecnologias, incluindo Power BI,<br/ > Java, C, Python, HTML5/CSS3, SQL, JavaScript, React, Excel e SolidWorks. <br />
+ :briefcase: &nbsp; Nos <a href="https://www.supermercadosbh.com.br/belo-horizonte/" target="_blank">Supermercados BH</a>, atuo como <code>Desenvolvedora de Software Junior</code>, <br/> desenvolvendo projetos utilizando <br/> ReactJs, Typescript, C# (.NET)
+ , Node.js, MongoDB e SQL. <br />
+ :atom: &nbsp; Tenho conhecimento em diversas tecnologias, incluindo C#,<br/ > Java, C++, Python, HTML5/CSS3, JavaScript, TypeScript, React, SQL, Power BI Excel e SolidWorks. <br />
   :man_teacher: &nbsp; Estou sempre buscando novos desafios e oportunidades para <br/> expandir minhas habilidades técnicas. <br />
  :books: &nbsp; Meus hobbies são ler, assistir séries, sair para comer e correr. <br/>
  :speech_balloon: &nbsp; Apaixonada por aprender e compartilhar conhecimento, <br/> estou sempre disponível para ajudar. <br />
