@@ -47,7 +47,7 @@ Sou uma desenvolvedora junior em busca de aprimoramento nas áreas de back-end e
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/dev.gif?raw=true" width="340px" height="520px"/>
+<img align="right" alt="GIF" src="https://github.com/rafaelalavorato/rafaelalavorato/blob/main/Gen-3%20Alpha%20Turbo%201098485253%2C%20Girl%20typing%20on%20compu%2C%20Cropped%20-%20baixados%20(%2C%20M%205.mp4.gif" width="340px" height="520px"/>
 </div>
 
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
@@ -173,8 +173,6 @@ Sou uma desenvolvedora junior em busca de aprimoramento nas áreas de back-end e
 </div>
 
 -----
-
-<img align="center" alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gray&section=footer"/>
 
 <!---
 <div>
