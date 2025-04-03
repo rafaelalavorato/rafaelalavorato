@@ -71,6 +71,10 @@ Sou uma desenvolvedora junior em busca de aprimoramento nas áreas de back-end e
 
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
 
+<code><a href="https://isocpp.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/cpp.svg?raw=true"/></a></code>
+&nbsp; 
+<code><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/csharp.png?raw=true"/></a></code>
+&nbsp;
 <code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/python.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/java.png?raw=true"/></a></code>
@@ -86,7 +90,17 @@ Sou uma desenvolvedora junior em busca de aprimoramento nas áreas de back-end e
 <code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/mysql.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.postgresql.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/postgresql.png?raw=true"/></a></code>
+&nbsp;
+<code><a href="https://www.mongodb.com/pt-br" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/mongodb.png?raw=true"/></a></code>
+&nbsp;
+<code><a href="https://nodejs.org/en/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/nodejs.png?raw=true"/></a></code>
+&nbsp;
+<code><a href="https://nextjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/nextjs.png?raw=true"/></a></code>
 &nbsp; 
+<code><a href="https://insomnia.rest/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/insomnia.png?raw=true"/></a></code>
+&nbsp;
+<code><a href="https://redis.io/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/redis.png?raw=true"/></a></code>
+&nbsp;
 <code><a href="https://www.eclipse.org/downloads/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/eclipse.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/vs.png?raw=true"/></a></code>
