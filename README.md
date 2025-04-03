@@ -66,6 +66,8 @@ Sou uma desenvolvedora junior em busca de aprimoramento nas áreas de back-end e
 </div>
 </div>
 
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
 <div>
 
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
