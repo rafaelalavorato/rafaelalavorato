@@ -40,7 +40,7 @@
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
 
 <div align="justify">
-Sou uma desenvolvedora junior em busca de aprimoramento nas áreas de back-end e front-end. Tenho conhecimento em C++, C#, Python, Java, HTML, CSS e JavaScript. Estou me aprofundando em TypeScript e React, além de possuir conhecimento em banco de dados. Trabalhei com ferramentas como Eclipse IDE, IntelliJ IDEA, Visual Studio e DevC++. Meu objetivo é me tornar uma profissional Full Stack, contribuindo para projetos inovadores e desafiadores. Estou constantemente aprendendo e aprimorando minhas habilidades para alcançar essas metas. Estou sempre aberta a conhecer outros profissionais da área e aprender com eles. Fique à vontade para me seguir aqui no GitHub e no LinkedIn.
+Sou uma desenvolvedora junior em busca de aprimoramento nas áreas de back-end e front-end. Tenho conhecimento em C++, Python, Java, HTML, CSS e JavaScript. Estou me aprofundando em TypeScript, React e C#, além de possuir conhecimento em banco de dados. Trabalhei com ferramentas como Eclipse IDE, IntelliJ IDEA, Visual Studio e DevC++. Meu objetivo é me tornar uma profissional Full Stack, contribuindo para projetos inovadores e desafiadores. Estou constantemente aprendendo e aprimorando minhas habilidades para alcançar essas metas. Estou sempre aberta a conhecer outros profissionais da área e aprender com eles. Fique à vontade para me seguir aqui no GitHub e no LinkedIn.
 </div>
 
 -----
@@ -56,7 +56,8 @@ Sou uma desenvolvedora junior em busca de aprimoramento nas áreas de back-end e
 <p> 
  :man_teacher: &nbsp; Pela <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>formada</code> em Análise e <br/> Desenvolvimento de Sistemas.<br />
 :mortar_board: &nbsp; Pela <a href="https://www.fumec.br/" target="_blank">Universidade FUMEC</a>, sou <code>formada</code> em <br/> Engenharia Aeronáutica desde 2021. <br />
- :briefcase: &nbsp; Nos <a href="https://www.supermercadosbh.com.br/belo-horizonte/" target="_blank">Supermercados BH</a>, atuo como <code>Desenvolvedora de Software Junior</code>, <br/> desenvolvendo projetos utilizando ReactJs, Typescript, C# (.NET), <br/> Node.js, MongoDB e SQL. <br />
+ :briefcase: &nbsp; Nos <a href="https://www.supermercadosbh.com.br/belo-horizonte/" target="_blank">Supermercados BH</a>, atuo como <code>Desenvolvedora de Software Junior</code>
+ <!-- <br/> desenvolvendo projetos utilizando ReactJs, Typescript, C# (.NET), <br/> Node.js, MongoDB e SQL. <br /> -->
  :atom: &nbsp; Tenho conhecimento em diversas tecnologias, incluindo C#,<br/ > Java, C++, Python, HTML5/CSS3, JavaScript, TypeScript, React, SQL, Power BI,  <br /> Excel e SolidWorks. <br />
   :man_teacher: &nbsp; Estou sempre buscando novos desafios e oportunidades para <br/> expandir minhas habilidades técnicas. <br />
  :books: &nbsp; Meus hobbies são ler, assistir séries, sair para comer e correr. <br/>
