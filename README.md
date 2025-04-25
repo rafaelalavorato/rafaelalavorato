@@ -47,7 +47,7 @@ Sou uma desenvolvedora junior em busca de aprimoramento nas áreas de back-end e
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/rafaelalavorato/rafaelalavorato/blob/main/img/imagem.png" width="340px" height="400px"/>
+<img align="right" alt="GIF" src="https://github.com/rafaelalavorato/rafaelalavorato/blob/main/img/imagem.png" width="400px" height="350px"/>
 </div>
 
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
