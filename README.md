@@ -1,7 +1,7 @@
 -----
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rafaelalavorato/rafaelalavorato/main/img/github-header-image.png" alt="Header" />
+  <img src="https://raw.githubusercontent.com/rafaelalavorato/rafaelalavorato/main/img/github-header-image (1).png" alt="Header" />
 </div>
 
 -----
@@ -47,7 +47,7 @@ Sou uma desenvolvedora junior em busca de aprimoramento nas áreas de back-end e
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/rafaelalavorato/rafaelalavorato/blob/main/img/imagem.png" width="380px" height="400px"/>
+<img align="right" alt="GIF" src="https://github.com/rafaelalavorato/rafaelalavorato/blob/6e6aec7f8989706904230f85503a7a91db0f0eaf/img/baixados.png" width="380px" height="400px"/>
 </div>
 
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
