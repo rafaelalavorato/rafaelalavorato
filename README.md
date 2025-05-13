@@ -1,8 +1,8 @@
 -----
 
-<div style="text-align: center;">
+<p align: "center">
 <img alt="Header" src="https://raw.githubusercontent.com/rafaelalavorato/rafaelalavorato/main/img/github-header-image.png"/>
-</div>
+</p>
 
 -----
 
