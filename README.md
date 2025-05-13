@@ -1,7 +1,7 @@
 -----
 
-<div>
-<img align="center" alt="Header" src="https://raw.githubusercontent.com/rafaelalavorato/rafaelalavorato/main/img/github-header-image.png"/>
+<div style="text-align: center;">
+<img alt="Header" src="https://raw.githubusercontent.com/rafaelalavorato/rafaelalavorato/main/img/github-header-image.png"/>
 </div>
 
 -----
