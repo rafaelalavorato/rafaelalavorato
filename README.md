@@ -1,8 +1,8 @@
 -----
 
-<p align: "center">
-<img alt="Header" src="https://raw.githubusercontent.com/rafaelalavorato/rafaelalavorato/main/img/github-header-image.png"/>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rafaelalavorato/rafaelalavorato/main/img/github-header-image.png" alt="Header" />
+</div>
 
 -----
 
