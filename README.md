@@ -40,7 +40,7 @@
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
 
 <div align="justify">
-Sou uma desenvolvedora junior em busca de aprimoramento nas áreas de back-end e front-end. Tenho conhecimento em C++, Python, Java, HTML, CSS e JavaScript. Estou me aprofundando em TypeScript, React e C#, além de possuir conhecimento em banco de dados. Trabalhei com ferramentas como Eclipse IDE, IntelliJ IDEA, Visual Studio e DevC++. Meu objetivo é me tornar uma profissional Full Stack, contribuindo para projetos inovadores e desafiadores. Estou constantemente aprendendo e aprimorando minhas habilidades para alcançar essas metas. Estou sempre aberta a conhecer outros profissionais da área e aprender com eles. Fique à vontade para me seguir aqui no GitHub e no LinkedIn.
+Sou uma desenvolvedora fullstack junior. Tenho conhecimento em C++, Python, Java, HTML, CSS e JavaScript. Estou me aprofundando em TypeScript, React e C#, além de possuir conhecimento em banco de dados. Trabalhei com ferramentas como Eclipse IDE, IntelliJ IDEA, Visual Studio e DevC++. Meu objetivo é me tornar uma profissional Full Stack, contribuindo para projetos inovadores e desafiadores. Estou constantemente aprendendo e aprimorando minhas habilidades para alcançar essas metas. Estou sempre aberta a conhecer outros profissionais da área e aprender com eles. Fique à vontade para me seguir aqui no GitHub e no LinkedIn.
 </div>
 
 -----
