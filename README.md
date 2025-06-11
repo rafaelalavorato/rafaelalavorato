@@ -165,7 +165,7 @@ Sou uma desenvolvedora junior em busca de aprimoramento nas áreas de back-end e
 <tr>
 <td>
 | Créditos: <a href="https://github.com/rafaelalavorato" target="_blank">© 2024 Lavorato</a><br />
-| Última atualização: 25/03/2025
+| Última atualização: 11/06/2025
 </td>
 </tr>
 <tr>
