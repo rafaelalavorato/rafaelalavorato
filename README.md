@@ -67,7 +67,7 @@ Sou uma desenvolvedora junior em busca de aprimoramento nas áreas de back-end e
 </div>
 </div>
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 <div>
 
