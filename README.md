@@ -58,10 +58,10 @@ Sou uma desenvolvedora fullstack junior. Tenho conhecimento em C++, Python, Java
 :mortar_board: &nbsp; Pela <a href="https://www.fumec.br/" target="_blank">Universidade FUMEC</a>, sou <code>formada</code> em Engenharia Aeronáutica. <br />
  :briefcase: &nbsp; Nos <a href="https://www.supermercadosbh.com.br/belo-horizonte/" target="_blank">Supermercados BH</a>, atuo como <code>Desenvolvedora de Software Junior</code><br/>
  <!-- <br/> desenvolvendo projetos utilizando ReactJs, Typescript, C# (.NET), <br/> Node.js, MongoDB e SQL. <br /> -->
- :atom: &nbsp; Tenho conhecimento em diversas tecnologias, incluindo C#, Java, Python, <br/ >  HTML5/CSS3, JavaScript, TypeScript, React, MongoDB, Power BI, Excel e SolidWorks. <br />
-  :man_teacher: &nbsp; Estou sempre buscando novos desafios e oportunidades para expandir minhas <br/> habilidades técnicas. <br />
- :books: &nbsp; Meus hobbies são ler, assistir séries, sair para comer e correr. <br/>
- :speech_balloon: &nbsp; Apaixonada por aprender e compartilhar conhecimento, estou sempre <br/> disponível para ajudar. <br />
+ :atom: &nbsp; Tenho conhecimento em diversas tecnologias, incluindo C#, Java, Python, HTML5/CSS3, JavaScript, TypeScript, React, MongoDB, Power BI,  <br/ > Excel e SolidWorks. <br />
+  :man_teacher: &nbsp; Estou sempre buscando novos desafios e oportunidades para expandir minhas habilidades técnicas. <br />
+ :books: &nbsp; Meus hobbies são ler livros, assistir séries e sair para comer. <br/>
+ :speech_balloon: &nbsp; Apaixonada por aprender e compartilhar conhecimento, estou sempre disponível para ajudar. <br />
  :mailbox: &nbsp; Vamos nos conectar? Você pode me encontrar <a href="rafaelajunqueiralp@gmail.com" target="_blank">aqui</a> <br />
 </p>
 </div>
