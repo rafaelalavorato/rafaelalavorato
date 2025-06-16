@@ -33,7 +33,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou a <code>Rafaela Lavorato</code>, tenho 27 anos, moro em BH e sou formada em Análise e Desenvolvimento de Sistemas pelo <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>. Também sou formada em Engenharia Aeronáutica pela Universidade FUMEC desde 2021. Atualmente trabalho nos <a href="https://www.supermercadosbh.com.br/belo-horizonte/" target="_blank">Supermercados BH</a> na equipe de logística do setor de TI como desenvolvedora junior. Sou apaixonada por tecnologia e aviação.
+<i><b>Olá</b> :wave:, sou a <code>Rafaela Lavorato</code>, tenho 27 anos, moro em BH e sou formada em Análise e Desenvolvimento de Sistemas pelo <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> e formada em Engenharia Aeronáutica pela Universidade FUMEC. Atualmente trabalho nos <a href="https://www.supermercadosbh.com.br/belo-horizonte/" target="_blank">Supermercados BH</a> na equipe de logística do setor de TI como desenvolvedora junior. Sou apaixonada por tecnologia e aviação.
 </div>
 
 -----
@@ -54,14 +54,14 @@ Sou uma desenvolvedora fullstack junior. Tenho conhecimento em C++, Python, Java
 
 <div align="justify">
 <p> 
- :man_teacher: &nbsp; Pela <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>formada</code> em Análise e <br/> Desenvolvimento de Sistemas.<br />
-:mortar_board: &nbsp; Pela <a href="https://www.fumec.br/" target="_blank">Universidade FUMEC</a>, sou <code>formada</code> em <br/> Engenharia Aeronáutica desde 2021. <br />
+ :man_teacher: &nbsp; Pela <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>formada</code> em Análise e Desenvolvimento de Sistemas.<br />
+:mortar_board: &nbsp; Pela <a href="https://www.fumec.br/" target="_blank">Universidade FUMEC</a>, sou <code>formada</code> em Engenharia Aeronáutica. <br />
  :briefcase: &nbsp; Nos <a href="https://www.supermercadosbh.com.br/belo-horizonte/" target="_blank">Supermercados BH</a>, atuo como <code>Desenvolvedora de Software Junior</code><br/>
  <!-- <br/> desenvolvendo projetos utilizando ReactJs, Typescript, C# (.NET), <br/> Node.js, MongoDB e SQL. <br /> -->
- :atom: &nbsp; Tenho conhecimento em diversas tecnologias, incluindo C#,<br/ > Java, Python, HTML5/CSS3, JavaScript, TypeScript, React, MongoDB, Power BI, Excel e SolidWorks. <br />
-  :man_teacher: &nbsp; Estou sempre buscando novos desafios e oportunidades para <br/> expandir minhas habilidades técnicas. <br />
+ :atom: &nbsp; Tenho conhecimento em diversas tecnologias, incluindo C#, Java, Python, <br/ >  HTML5/CSS3, JavaScript, TypeScript, React, MongoDB, Power BI, Excel e SolidWorks. <br />
+  :man_teacher: &nbsp; Estou sempre buscando novos desafios e oportunidades para expandir minhas <br/> habilidades técnicas. <br />
  :books: &nbsp; Meus hobbies são ler, assistir séries, sair para comer e correr. <br/>
- :speech_balloon: &nbsp; Apaixonada por aprender e compartilhar conhecimento, <br/> estou sempre disponível para ajudar. <br />
+ :speech_balloon: &nbsp; Apaixonada por aprender e compartilhar conhecimento, estou sempre <br/> disponível para ajudar. <br />
  :mailbox: &nbsp; Vamos nos conectar? Você pode me encontrar <a href="rafaelajunqueiralp@gmail.com" target="_blank">aqui</a> <br />
 </p>
 </div>
