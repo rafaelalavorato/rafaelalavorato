@@ -33,7 +33,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou a <code>Rafaela Lavorato</code>, tenho 26 anos, moro em BH e sou formada em Análise e Desenvolvimento de Sistemas pelo <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>. Também sou formada em Engenharia Aeronáutica pela Universidade FUMEC desde 2021. Atualmente trabalho nos <a href="https://www.supermercadosbh.com.br/belo-horizonte/" target="_blank">Supermercados BH</a> na equipe de logística do setor de TI como desenvolvedora junior. Sou apaixonada por tecnologia e aviação.
+<i><b>Olá</b> :wave:, sou a <code>Rafaela Lavorato</code>, tenho 27 anos, moro em BH e sou formada em Análise e Desenvolvimento de Sistemas pelo <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>. Também sou formada em Engenharia Aeronáutica pela Universidade FUMEC desde 2021. Atualmente trabalho nos <a href="https://www.supermercadosbh.com.br/belo-horizonte/" target="_blank">Supermercados BH</a> na equipe de logística do setor de TI como desenvolvedora junior. Sou apaixonada por tecnologia e aviação.
 </div>
 
 -----
